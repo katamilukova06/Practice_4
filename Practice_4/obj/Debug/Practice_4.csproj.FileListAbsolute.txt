@@ -1,0 +1,8 @@
+D:\Приложения\VisualStudio\Practice_4\bin\Debug\Practice_4.exe.config
+D:\Приложения\VisualStudio\Practice_4\bin\Debug\Practice_4.exe
+D:\Приложения\VisualStudio\Practice_4\bin\Debug\Practice_4.pdb
+D:\Приложения\VisualStudio\Practice_4\obj\Debug\Practice_4.csproj.AssemblyReference.cache
+D:\Приложения\VisualStudio\Practice_4\obj\Debug\Practice_4.csproj.SuggestedBindingRedirects.cache
+D:\Приложения\VisualStudio\Practice_4\obj\Debug\Practice_4.csproj.CoreCompileInputs.cache
+D:\Приложения\VisualStudio\Practice_4\obj\Debug\Practice_4.exe
+D:\Приложения\VisualStudio\Practice_4\obj\Debug\Practice_4.pdb
